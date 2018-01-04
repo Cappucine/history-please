@@ -1,8 +1,15 @@
 # The Group of Seven #
+
 The Group of Seven was a group of Canadian Artists active from 1920 to 1933. They created landscape paintings of Canada's wilderness, which was 
 unique from European styles of painting, and contributed to the Canadian style. Together they created the countrie's first art movement.
 
 It began in Toronto in 1913 as a group of design students, and grew to be a Canadian legacy.
+
+>“No man can roan or inhabit the Canadian North without it affecting him, and the artist, because of his constant habit of awareness and his discipline in expression, is perhaps more understanding of its moods and spirit than others are. He is thus better equipped to interpret it to others, and then, when her has become one with its spirit, to create living works in their own right, by using forms, colors, rhythms and moods, to make a harmonious home for the imaginative and spiritual meaning it has evoked in him. ” 
+― Lawren Harris
+
+___
+
 ## Members ##
 -[Franklin Carmichael](http://mcmichael.com/portfolio-items/franklin-carmichael/?portfolioCats=30)
 
@@ -30,6 +37,7 @@ It began in Toronto in 1913 as a group of design students, and grew to be a Cana
 
 
 
-
 ## Lawren Harris, 'Lake Superior', 1923, oil on canvas ##
 ![image alt text](https://cdn.theculturetrip.com/wp-content/uploads/2016/07/1923_lake-superior_thomson-col_small-3.jpg)
+
+
